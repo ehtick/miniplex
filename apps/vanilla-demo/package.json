@@ -10,11 +10,11 @@
   },
   "devDependencies": {
     "@types/three": "^0.154.0",
-    "vite": "^4.4.4"
+    "vite": "^4.5.14"
   },
   "dependencies": {
-    "fp-ts": "^2.16.0",
-    "miniplex": "workspace:2.0.0",
+    "fp-ts": "^2.16.11",
+    "miniplex": "workspace:*",
     "randomish": "^0.1.6",
     "three": "^0.154.0"
   }

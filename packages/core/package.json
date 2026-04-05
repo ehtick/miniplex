@@ -30,12 +30,12 @@
     "build": "preconstruct build"
   },
   "devDependencies": {
-    "chalk": "^5.3.0",
-    "tsx": "^3.12.7"
+    "chalk": "^5.6.2",
+    "tsx": "^3.14.0"
   },
   "dependencies": {
     "@hmans/id": "^0.0.1",
     "@hmans/queue": "^0.0.1",
-    "@miniplex/bucket": "workspace:2.0.0"
+    "@miniplex/bucket": "workspace:*"
   }
 }
